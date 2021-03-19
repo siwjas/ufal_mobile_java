@@ -50,6 +50,8 @@ public class CadastroAluno {
         }else{
             System.out.println("Conceito: [ D ]");
         }
+
+        scan.close();
        
     }
 }
